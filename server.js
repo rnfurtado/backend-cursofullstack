@@ -11,7 +11,7 @@ const io = require('socket.io')(server);
 
 //Configs
 var corOptions = {
-    origin : 'http://localhost:3000',
+    origin : 'https://frontend-cursofullstack.herokuapp.com/',
     optionsSuccessStatus : 200
 }
 
